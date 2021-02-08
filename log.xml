@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-08T12:12:00</date>
+  <millis>1612782728395</millis>
+  <sequence>4</sequence>
+  <logger>exam.aop.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Avant double exam.traitement.Cercle.Cercle(double,double,Point)</message>
+</record>
+<record>
+  <date>2021-02-08T12:12:00</date>
+  <millis>1612782728395</millis>
+  <sequence>5</sequence>
+  <logger>exam.aop.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Après double exam.traitement.Cercle.Cercle(double,double,Point)</message>
+</record>
+<record>
+  <date>2021-01-08T13:00:17</date>
+  <millis>1610107217092</millis>
+  <sequence>6</sequence>
+ <logger>exam.aop.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>49</thread>
+  <message>Durée : 10ms</message>
+</record>
+</log>
